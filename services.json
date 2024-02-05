@@ -1,0 +1,22 @@
+{
+    "services": [
+        {
+            "title": "Service 1",
+            "subtitle": "Subtitle 1",
+            "description": "Description of Service 1",
+            "image": "image1.jpg"
+        },
+        {
+            "title": "Service 2",
+            "subtitle": "Subtitle 2",
+            "description": "Description of Service 2",
+            "image": "image2.jpg"
+        },
+        {
+            "title": "Service 3",
+            "subtitle": "Subtitle 3",
+            "description": "Description of Service 3",
+            "image": "image3.jpg"
+        }
+    ]
+}
